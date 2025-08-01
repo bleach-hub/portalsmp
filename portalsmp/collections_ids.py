@@ -73,5 +73,16 @@ collections_ids = {
     "Star Notepad": "a76231dd-a8be-4f06-b7a3-e119b65074da",
     "Snake Box": "f50f29bb-70b5-4502-a21b-8eadf20518fa",
     "Jester Hat": "ea32e880-b03c-4791-9385-68d24db9784b",
-    "Winter Wreath": "13bada87-1353-4db5-b77c-d451c95365e0"
-    }
+    "Winter Wreath": "13bada87-1353-4db5-b77c-d451c95365e0",
+    "Westside Sign": "3a2d754c-f1f1-4211-8a4b-26d49b2d17b9",
+    "Cupid Charm": "2ddc363c-1f77-44aa-9dfa-8378add31406",
+    "Whip Cupcake": "35e4cd4e-366b-4731-b7a8-8770d0e42bfe",
+    "Heart Locket": "92d41f91-edb8-41a4-8798-85b03924cbb2",
+    "Snoop Dogg": "5b4448f0-4805-4c4c-8246-972b82f709bc",
+    "Swag Bag": "66850ebe-2531-4e25-813a-3f3294818f7d",
+    "Low Rider": "a2e98247-e9e5-4fd7-86d7-fce0ceea5d61",
+    "Lush Bouquet": "a656ed7d-fcd7-4412-b143-94e6aafcb30b",
+    "Joyful Bundle": "c2d8ee29-e14b-4372-9b79-72407f9d593d",
+    "Valentine Box": "d865f0ce-aa14-4764-aa9f-87fb27cb050c",
+    "Snoop Cigar": "f0b752de-c997-43dd-859c-f309008b2352"
+}
